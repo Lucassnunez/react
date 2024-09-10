@@ -9,7 +9,7 @@ const Menu = () => {
   return (
     <>
 
-    <h1>INDUMENTARIA GL</h1>
+    <h1>INDUMENTARIA LN</h1>
     <img className="logo" src="./imagen-logo.png" alt="" />
       <Navbar bg="dark" data-bs-theme="dark">
         <Container>
