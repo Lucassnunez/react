@@ -21,9 +21,10 @@ const Menu = () => {
             <Nav.Link href="#">Ubicacion</Nav.Link>
           </Nav>
         </Container>
+        <CartWidget/>
       </Navbar>
 
-      <CartWidget/>
+      {/* <CartWidget/> */}
 
     </>
   );
